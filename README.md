@@ -1,11 +1,17 @@
 ## CourseApp Project
 
 **Features of this project**
+
 *SQLite
+
 *Migrations
+
 *CRUD operations
+
 *Navigation Property
+
 *One to one/many relationships
+
 
 **Include Bootstrap library to .NET project**
 
